@@ -30,3 +30,8 @@ mongoose
     });
   })
   .catch((err) => console.error("MongoDB error:", err));
+
+// GEMINI_API_KEY=AIzaSyAguHfOIdjwp95TFzVtjnQf9wmbK7DaFhc
+// PORT=5000
+// MONGO_URI=mongodb+srv://AshutoshBirje:nojd2wsTSPH7D4Ma@clusterone.lg23t.mongodb.net/FIRDB?retryWrites=true&w=majority
+// JWT_SECRET=12345
